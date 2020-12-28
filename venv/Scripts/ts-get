@@ -1,0 +1,33 @@
+#!d:\python\golden printer\venv\scripts\python.exe
+import os
+import pprint
+import sys
+
+import tehran_stocks as ts
+from tehran_stocks import db
+
+args = sys.argv
+if len(args) == 1:
+    print("you have to pass an option:")
+    print(" init\n update \n group grouo_code(int) \n get_groups")
+    sys.exit()
+if args[1] == "init":
+    if not os.path.isfile(db.db_path):
+        print("No database founded.")
+        ts.init_db()
+        ts.fill_db()
+    else:
+        print("Your database was initialized before ")
+
+elif args[1] == "update":
+    ts.get_all_price()
+elif args[1] == "group":
+    try:
+        code = int(args[2])
+        ts.update_group(code)
+        print("Done")
+    except:
+        print("please enter group code")
+
+elif args[1] == "get_groups":
+    pprint.pprint(ts.Stocks.get_group())

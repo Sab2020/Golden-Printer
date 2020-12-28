@@ -1,0 +1,26 @@
+
+
+
+# saina = pd.read_csv("tsetmc/Saina.Company.csv")
+# print(saina.head(3))
+# print(saina.tail(1))
+# print(saina.shape)
+# print(saina.count())
+# print(saina["<CLOSE>"])
+# print(saina[["<CLOSE>", "<OPEN>"]])
+# print(saina.iloc[1])
+# print(saina.iloc[0,1])
+# print(saina.iloc[0:4,0:4])
+# print(type(saina.values))
+# saina = saina.set_index("<DTYYYYMMDD>")
+# saina['<DAILYGROWTH>'] = saina["<CLOSE>"] - saina["<OPEN>"]
+# print(saina['<DAILYGROWTH>'].sum)
+# print(saina['<DAILYGROWTH>'].head(100).sum)
+# print(saina)
+# saina['<CLOSE>'].plot()
+# plt.show()
+# print(saina.describe())
+# print(saina.describe()["<OPEN>"])
+# print(saina.loc[20201220])
+# saina.to_csv("saina99.csv")
+# print(saina)

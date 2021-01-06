@@ -1,12 +1,10 @@
 import math
+import pandas as pd
+import technic as ta
 
-f = -3
-g = 3
-h = 0
+s = pd.read_csv("tickers_data/شوینده.csv")
+c = s.open.count()
 
-f = math.hypot(f)
-#g = math.acos(g)
-
-print(f)
-print(g)
-
+rsi = ta.trsi(s['adjClose'], 14)
+print(rsi.tail(1).item())
+print(type(rsi))

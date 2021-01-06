@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: technic
+Version: 0.0.3
+Summary: A python library for Technical Trading
+Home-page: https://github.com/dvd9604/technic.git
+Author: Divyaansh Dandona
+Author-email: divy96@gmail.com
+License: UNKNOWN
+Keywords: trading,technical,analysis
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+
+# Technic
+
+A trading technical analysis library for python.
+
+## Dependencies
+
+1. pandas
+2. numpy
+
+## Install
+
+`pip install technic`
+
+## Supported Technical Functions
+
+| Indicator             | Status      |
+| --------------------- | ----------- |
+| SMA                   | DONE        |
+| EMA                   | DONE        |
+| RSI                   | DONE        |
+| ATR                   | DONE        |
+| STD                   | DONE        |
+| MACD                  | DONE        |
+| BOLLINGER BANDS       | DONE        |
+| KELTNER CHANNELS      | DONE        |
+| SQUEEEZE              | COMING SOON |
+| STOCHASTIC OSCILLATOR | COMING SOON |
+
+## Examples
+
+```python
+
+import pandas as pd
+import technic as ta
+
+
+
+csv_file = 'PATH_TO_YOUR OHLCV CSV DATA'
+
+# Dataframe containing OHLCV data
+df = pd.read_csv(csv_file)
+
+
+# SMA
+sma = ta.tsma(df['close'], 50)
+
+# EMA
+ema = ta.tsma(df['close'], 10)
+
+# RSI
+rsi = ta.trsi(df['close'], 14)
+
+# ATR
+atr = ta.tatr(df['close'], df['high'], df['low'], w=21)
+
+# MACD
+df_macd = ta.tmacd(df['close'], w_slow=26, w_fast=12, w_signal=9)
+
+# Bollinger Bands
+df_bbands = ta.tbollingerbands(df['close'], w=21, std_multiplier=2)
+
+# Keltner Channels
+df_kelt = ta.tkeltnerchannels(df['close'], df['high'], df['low'], w=21, atr_multiplier=2)
+
+```
+
+

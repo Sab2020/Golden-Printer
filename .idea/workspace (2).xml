@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00b128db-f56a-4520-b0d5-b50f1ee57d81" name="Default Changelist" comment="9910-01">
+      <change beforePath="$PROJECT_DIR$/.idea/Golden Printer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Golden Printer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saina99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آبین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آبین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آتیمس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آتیمس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آرمان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آرمان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آرمانی.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آریان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آریان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آساس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آساس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آسام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آسام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آسامید.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آسامید.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آپ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آپ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آکورد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آکورد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آگاس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آگاس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/آینده.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/آینده.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اتکام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اتکام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اتکای.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اتکای.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اخابر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اخابر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ارزش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ارزش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ارفع.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ارفع.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ارمغان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ارمغان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اطلس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اطلس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اعتلا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اعتلا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اعتماد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اعتماد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/افرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/افرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/افران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/افران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/افق ملت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/افق ملت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/افق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/افق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/البرز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/البرز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/الماس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/الماس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/امید.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/امید.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/امین یکم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/امین یکم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/انرژی3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/انرژی3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اوان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اوان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اوصتا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اوصتا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/اپرداز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/اپرداز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بالاس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بالاس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بالبر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بالبر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بایکا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بایکا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بتک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بتک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بجهرم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بجهرم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بذر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بذر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/برکت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/برکت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بزاگرس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بزاگرس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بساما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بساما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بشهاب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بشهاب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بفجر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بفجر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بموتو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بموتو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بمپنا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بمپنا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بمیلا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بمیلا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بهپاک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بهپاک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بورس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بورس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بکاب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بکاب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بکام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بکام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/بکهنوج.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/بکهنوج.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تابا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تابا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تاصیکو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تاصیکو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تاپکیش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تاپکیش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تاپیکو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تاپیکو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تایرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تایرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تبرک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تبرک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تشتاد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تشتاد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تصمیم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تصمیم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تلیسه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تلیسه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تنوین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تنوین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/توریل.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/توریل.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تپمپی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تپمپی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تپولا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تپولا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تکشا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تکشا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تکمبا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تکمبا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تکنو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تکنو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/تیپیکو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/تیپیکو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثاباد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثاباد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثاخت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثاخت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثاصفا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثاصفا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثالوند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثالوند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثامان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثامان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثاژن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثاژن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثباغ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثباغ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثتران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثتران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثتوسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثتوسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثجوان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثجوان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثروتم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثروتم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثرود.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثرود.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثزاگرس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثزاگرس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثشاهد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثشاهد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثشرق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثشرق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثعتما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثعتما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثعمرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثعمرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثغرب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثغرب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثفارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثفارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثقزوی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثقزوی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثمسکن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثمسکن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثنام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثنام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثنظام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثنظام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثنور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثنور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثنوسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثنوسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ثپردیس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ثپردیس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/جم پیلن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/جم پیلن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/جم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/جم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/جهرم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/جهرم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حآسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حآسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حاریا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حاریا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حبندر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حبندر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حتاید.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حتاید.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حتوکا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حتوکا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حخزر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حخزر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حریل.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حریل.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حسینا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حسینا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حفارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حفارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حفاری.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حفاری.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حپارسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حپارسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حپترو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حپترو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/حکشتی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/حکشتی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خاذین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خاذین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خاهن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خاهن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خاور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خاور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خبهمن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خبهمن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ختراک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ختراک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ختور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ختور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ختوقا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ختوقا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خدیزل.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خدیزل.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خراسان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خراسان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خریخت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خریخت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خرینگ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خرینگ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خزامیا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خزامیا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خزر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خزر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خساپا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خساپا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خشرق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خشرق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خصدرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خصدرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خعمرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خعمرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خفناور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خفناور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خفنر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خفنر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خفولا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خفولا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خلنت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خلنت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خمحرکه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خمحرکه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خمحور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خمحور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خمهر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خمهر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خموتور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خموتور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خنصیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خنصیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خودرو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خودرو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خودکفا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خودکفا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خوساز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خوساز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خپویش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خپویش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خچرخش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خچرخش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خکار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خکار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خکاوه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خکاوه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خکرمان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خکرمان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خکمک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خکمک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/خگستر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/خگستر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دابور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دابور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دارا یکم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دارا یکم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دارا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دارا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/داراب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/داراب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دارو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دارو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/داسوه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/داسوه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دالبر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دالبر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دامین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دامین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دانا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دانا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/داوه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/داوه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دبالک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دبالک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دتماد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دتماد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دتوزیع.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دتوزیع.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دتولید.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دتولید.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دجابر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دجابر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ددام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ددام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/درازک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/درازک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/درهآور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/درهآور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دروز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دروز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دسانکو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دسانکو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دسبحا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دسبحا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دسبحان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دسبحان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دسینا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دسینا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دشیری.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دشیری.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دشیمی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دشیمی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دعبید.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دعبید.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دفارا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دفارا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دفرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دفرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دقاضی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دقاضی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دلر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دلر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دلقما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دلقما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دماوند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دماوند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دمعیار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دمعیار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دکوثر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دکوثر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دکپسول.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دکپسول.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دکیمی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دکیمی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/دیران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/دیران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ذوب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ذوب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/رانفور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/رانفور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/رتاپ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/رتاپ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/رتکو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/رتکو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/رمپنا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/رمپنا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/رنیک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/رنیک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/رکیش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/رکیش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ریشمک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ریشمک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زاگرس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زاگرس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زبینا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زبینا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زدشت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زدشت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زشریف.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زشریف.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زفکا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زفکا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زقیام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زقیام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زماهان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زماهان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زمگسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زمگسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زنجان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زنجان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/زگلدشت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/زگلدشت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ساذری.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ساذری.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ساراب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ساراب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ساربیل.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ساربیل.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ساروم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ساروم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سامان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سامان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سایرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سایرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ساینا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ساینا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سباقر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سباقر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سبجنو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سبجنو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سبزوا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سبزوا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سبهان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سبهان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ستران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ستران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سجام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سجام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سخاش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سخاش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سخزر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سخزر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سخند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سخند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سخواف.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سخواف.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سخوز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سخوز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سدبیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سدبیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سدشت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سدشت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سدور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سدور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سرو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سرو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سرود.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سرود.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سرچشمه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سرچشمه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سشرق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سشرق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سشمال.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سشمال.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سصفها.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سصفها.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سصوفی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سصوفی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سغرب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سغرب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سفار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سفار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سفارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سفارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سفاسی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سفاسی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سفانو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سفانو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سقاین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سقاین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سلار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سلار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سمازن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سمازن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سمتاز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سمتاز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سمگا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سمگا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سنیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سنیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سهرمز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سهرمز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سهگمت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سهگمت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سپ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سپ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سپاس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سپاس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سپاها.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سپاها.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سپرمی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سپرمی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سکارون.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سکارون.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سکرد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سکرد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سکرما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سکرما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سیدکو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سیدکو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سیستم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سیستم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سیلام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سیلام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/سیمرغ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/سیمرغ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شاراک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شاراک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شاملا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شاملا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شاوان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شاوان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شبریز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شبریز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شبصیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شبصیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شبندر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شبندر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شبهرن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شبهرن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شتران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شتران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شتهران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شتهران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شتولی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شتولی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شتوکا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شتوکا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شجم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شجم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شخارک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شخارک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شدوص.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شدوص.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شراز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شراز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شرانل.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شرانل.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شرنگی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شرنگی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شزنگ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شزنگ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شسم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شسم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شسپا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شسپا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شسینا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شسینا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شصفها.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شصفها.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شغدیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شغدیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شفا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شفا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شفارا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شفارا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شفارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شفارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شفن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شفن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شلرد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شلرد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شمواد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شمواد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شنفت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شنفت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شوینده.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شوینده.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شپاس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شپاس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شپاکسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شپاکسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شپترو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شپترو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شپدیس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شپدیس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شپلی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شپلی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شپنا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شپنا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شکبیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شکبیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شکربن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شکربن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شکلر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شکلر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شگامرن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شگامرن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شگل.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شگل.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شیراز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شیراز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/شیران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/شیران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/صایند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/صایند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/صنوین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/صنوین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غاذر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غاذر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غالبر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غالبر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غبشهر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غبشهر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غبهار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غبهار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غبهنوش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غبهنوش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غدام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غدام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غدشت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غدشت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غدیس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غدیس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غسالم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غسالم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غشاذر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غشاذر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غشصفا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غشصفا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غشهد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غشهد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غشهداب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غشهداب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غشوکو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غشوکو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غفارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غفارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غمهرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غمهرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غنیلی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غنیلی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غویتا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غویتا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غپآذر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غپآذر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غپونه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غپونه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غپینو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غپینو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غچین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غچین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غگرجی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غگرجی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غگز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غگز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غگلستا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غگلستا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/غگلپا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/غگلپا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فاذر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فاذر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فاراک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فاراک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فاسمین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فاسمین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فافزا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فافزا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فالوم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فالوم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فاما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فاما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فاهواز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فاهواز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فایرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فایرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فباهنر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فباهنر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فبستم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فبستم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فبیرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فبیرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فجام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فجام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فجر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فجر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فخاس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فخاس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فخوز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فخوز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فرآور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فرآور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فروس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فروس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فروی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فروی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فزرین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فزرین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فسازان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فسازان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فسرب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فسرب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فسپا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فسپا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فلات.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فلات.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فلامی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فلامی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فلوله.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فلوله.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فماک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فماک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فمراد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فمراد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فملی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فملی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فن آوا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فن آوا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فنرژی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فنرژی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فنفت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فنفت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فنوال.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فنوال.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فولاد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فولاد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فولاژ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فولاژ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فولای.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فولای.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فوکا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فوکا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فپنتا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فپنتا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فیروزا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فیروزا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/فیروزه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/فیروزه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قاسم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قاسم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قجام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قجام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قرن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قرن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قزوین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قزوین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قشرین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قشرین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قشهد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قشهد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قشکر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قشکر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قشیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قشیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قصفها.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قصفها.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قلرست.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قلرست.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قمرو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قمرو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قنیشا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قنیشا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قهکمت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قهکمت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قپیرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قپیرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/قچار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/قچار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لابسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لابسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لازما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لازما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لبوتان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لبوتان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لخانه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لخانه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لخزر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لخزر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لسرما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لسرما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لوتوس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لوتوس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لپیام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لپیام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/لکما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/لکما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/مادیرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/مادیرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/مارون.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/مارون.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/مبین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/مبین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/مداران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/مداران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/مرقام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/مرقام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/معیار .csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/معیار .csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/مفاخر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/مفاخر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/میدکو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/میدکو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/میهن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/میهن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/نطرین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/نطرین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/نمرینو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/نمرینو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/نوری.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/نوری.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/نوین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/نوین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/نگین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/نگین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/نیرو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/نیرو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/های وب.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/های وب.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/هجرت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/هجرت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/هرمز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/هرمز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/همراه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/همراه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وآتوس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وآتوس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وآذر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وآذر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وآرین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وآرین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وآفری.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وآفری.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وآوا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وآوا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وآیند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وآیند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/واتی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/واتی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/واحصا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/واحصا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/واعتبار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/واعتبار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/والبر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/والبر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وامید.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وامید.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وایرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وایرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وایران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وایران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وبانک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وبانک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وبرق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وبرق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وبشهر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وبشهر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وبصادر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وبصادر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وبملت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وبملت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وبهمن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وبهمن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وبوعلی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وبوعلی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وبیمه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وبیمه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وتجارت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وتجارت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وتعاون.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وتعاون.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وتوسم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وتوسم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وتوشه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وتوشه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وتوصا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وتوصا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وتوکا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وتوکا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وثخوز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وثخوز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وثنو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وثنو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وثوق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وثوق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وجامی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وجامی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وحافظ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وحافظ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وحکمت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وحکمت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وخارزم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وخارزم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وخاور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وخاور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ودی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ودی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ورازی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ورازی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ورنا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ورنا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وزمین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وزمین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وساخت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وساخت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وساپا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وساپا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وسبحان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وسبحان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وسدید.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وسدید.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وسرمد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وسرمد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وسنا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وسنا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وسپه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وسپه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وسین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وسین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وسینا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وسینا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وشمال.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وشمال.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وشهر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وشهر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وصنا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وصنا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وصندوق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وصندوق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وصنعت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وصنعت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وغدیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وغدیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولانا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولانا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولبهمن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولبهمن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولتجار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولتجار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولراز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولراز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولساپا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولساپا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولشرق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولشرق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولصنم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولصنم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولغدر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولغدر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ولملت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ولملت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ومشان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ومشان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ومعادن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ومعادن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ومعلم.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ومعلم.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وملت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وملت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وملل.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وملل.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وملی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وملی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ومهان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ومهان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ونفت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ونفت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ونوین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ونوین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ونچر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ونچر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ونیرو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ونیرو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/ونیکی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/ونیکی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وهنر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وهنر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وهور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وهور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وپاسار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وپاسار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وپترو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وپترو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وپخش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وپخش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وپسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وپسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وپست.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وپست.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وکادو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وکادو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وکار.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وکار.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وگردش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وگردش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/وگستر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/وگستر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پارتا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پارتا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پارسان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پارسان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پارسیان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پارسیان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پارند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پارند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پاسا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پاسا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پاکشو.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پاکشو.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پتایر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پتایر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پترول.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پترول.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پخش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پخش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پدرخش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پدرخش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پرداخت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پرداخت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پردیس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پردیس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پسهند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پسهند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پلاست.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پلاست.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پلاسک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پلاسک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پلوله.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پلوله.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پکرمان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پکرمان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/پکویر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/پکویر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/چافست.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/چافست.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/چدن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/چدن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/چفیبر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/چفیبر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/چکارن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/چکارن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/چکاوه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/چکاوه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کابگن.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کابگن.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کاذر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کاذر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کاردان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کاردان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کاریس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کاریس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کاسپین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کاسپین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کالا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کالا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کاما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کاما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کاوه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کاوه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کبافق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کبافق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کترام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کترام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کتوکا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کتوکا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کحافظ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کحافظ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کخاک.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کخاک.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کدما.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کدما.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کرازی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کرازی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کرماشا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کرماشا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کرمان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کرمان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کروی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کروی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کساپا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کساپا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کسرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کسرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کسرام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کسرام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کسعدی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کسعدی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کشرق.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کشرق.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کصدف.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کصدف.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کطبس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کطبس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کفرآور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کفرآور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کفرا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کفرا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کفپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کفپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کقزوی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کقزوی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کلر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کلر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کلوند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کلوند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کماسه.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کماسه.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کمرجان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کمرجان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کمند.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کمند.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کمنگنز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کمنگنز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کمینا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کمینا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کنور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کنور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کهرام.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کهرام.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کهمدا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کهمدا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کوثر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کوثر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کویر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کویر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کپرور.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کپرور.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کپشیر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کپشیر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کچاد.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کچاد.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کگاز.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کگاز.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کگل.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کگل.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کگهر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کگهر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کی بی سی.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کی بی سی.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کیان.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کیان.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کیسون.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کیسون.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/کیمیا.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/کیمیا.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/گنجین.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/گنجین.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/گوهران.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/گوهران.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/گپارس.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/گپارس.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/گکوثر.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/گکوثر.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/گکیش.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/گکیش.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickers_data/یاقوت.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers_data/یاقوت.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BmpImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/CurImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/CurImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/DdsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/DdsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/EpsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FliImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FliImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FpxImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/FpxImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GbrImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GbrImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GdImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GdImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GifImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GifImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GribStubImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/GribStubImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IcnsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IcnsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IcoImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IcoImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/Image.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/Image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageFont.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageFont.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageQt.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageQt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IptcImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/IptcImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/JpegImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/JpegImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/MspImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/MspImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PcdImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PcdImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PcxImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PcxImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PixarImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PixarImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PngImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PsdImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/SgiImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/SgiImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/SunImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/SunImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/TgaImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/TgaImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/TiffImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/XVThumbImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/XVThumbImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/XpmImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/XpmImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imaging.cp39-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imaging.cp39-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingcms.cp39-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingcms.cp39-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingft.cp39-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingft.cp39-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingmath.cp39-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingmath.cp39-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingmorph.cp39-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingmorph.cp39-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingtk.cp39-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_imagingtk.cp39-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_webp.cp39-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PIL/_webp.cp39-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-8.0.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-8.0.1.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-8.0.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-8.0.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-8.0.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-8.0.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-8.0.1.dist-info/zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/codec.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/codec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/idnadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/idnadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/package_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/package_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/uts46data.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/uts46data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_build_meta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_virtualenv.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/tests/test_virtualenv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.9.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/pytse_client/download.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1m5pm9bDYYzLjEbo2icuNO5sOVT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Golden Printer\tsetmc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Golden Printer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b128db-f56a-4520-b0d5-b50f1ee57d81" name="Default Changelist" comment="" />
+      <created>1608793462645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608793462645</updated>
+    </task>
+    <task id="LOCAL-00001" summary="9910-01">
+      <created>1609171890659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609171890662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/GP" />
+    </ignored-roots>
+    <MESSAGE value="9910-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="9910-01" />
+  </component>
+</project>

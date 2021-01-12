@@ -1,6 +1,3 @@
-
-
-
 # saina = pd.read_csv("tsetmc/Saina.Company.csv")
 # print(saina.head(3))
 # print(saina.tail(1))

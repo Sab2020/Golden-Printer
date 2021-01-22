@@ -1,10 +1,14 @@
-import math
 import pandas as pd
-import technic as ta
+import numpy as np
+import sklearn
 
-s = pd.read_csv("tickers_data/شوینده.csv")
-c = s.open.count()
+stock = pd.read_csv("tickers_data/ساینا.csv", sep=",")
+stock["perd"] = 0
 
-rsi = ta.trsi(s['adjClose'], 14)
-print(rsi.tail(1).item())
-print(type(rsi))
+print(stock)
+predict = "perd"
+
+x = np.array(stock.drop([predict], 1))
+y = np.array(stock[predict])
+
+x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x, y, test_size=0.1)

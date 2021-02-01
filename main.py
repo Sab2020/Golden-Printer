@@ -32,7 +32,6 @@ class TseTmc:
     def get_last_date(self, namad_name):
         da = pd.read_csv("tickers_data/" + namad_name + ".csv")
         ld = da['jdate'].tail(1).values
-
         return ld
 
     def chart_sym(self, sym, period):
@@ -58,7 +57,7 @@ class TseTmc:
             symbol = pd.read_csv(str(name))
             # print(symbol)
             rsi = ta.trsi(symbol['adjClose'], 14)
-            if (rsi.tail(1).item()) < 20:
+            if (rsi.tail(1).item()) < 15:
                 print(name)
                 with open('signal/' + file_name + '.txt', 'a', encoding="utf-8") as f:
                     f.write(str(name.name.title() + " = " + str(rsi.tail(1).item()) + "\n"))

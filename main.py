@@ -126,7 +126,7 @@ class TseTmc:
 
 
 t = TseTmc()
-t.get_data()
+#t.get_data()
 
-r = t.get_last_date('ساینا')
+r = t.get_last_date('آبادا')
 t.start_analyze(r)

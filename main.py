@@ -29,24 +29,28 @@ class TseTmc:
     def __init__(self):
         print("Welcome To Golden Printer.")
 
-    def get_last_date(self, namad_name):
+    @staticmethod
+    def get_last_date(namad_name):
         da = pd.read_csv("tickers_data/" + namad_name + ".csv")
         ld = da['jdate'].tail(1).values
         return ld
 
-    def chart_sym(self, sym, period):
+    @staticmethod
+    def chart_sym(sym, period):
         # symbol = pd.read_csv('tickers_data/' + str(sym) + '.csv')
         # sb.lineplot(x=symbol['jdate'], y=symbol['adjClose'], ci=None, data=tips)
         print(period + sym)
         return
 
-    def get_data(self):
+    @staticmethod
+    def get_data():
         print("Start...")
         tse.download(symbols="all", include_jdate=True, write_to_csv=True)
         print("Done...")
         return
 
-    def start_analyze(self, rooz):
+    @staticmethod
+    def start_analyze(rooz):
         csv_folder = Path('tickers_data/').rglob('*.csv')
         files = [x for x in csv_folder]
         file_name = str(rooz).replace('[', '')
@@ -66,7 +70,8 @@ class TseTmc:
 
         return
 
-    def ini_csv(self, name_namad, period):
+    @staticmethod
+    def ini_csv(name_namad, period):
         symbol = pd.read_csv("tickers_data/" + str(name_namad) + ".csv")
         symbol = symbol.set_index("jdate")
         symbol['dayGrowth'] = symbol['adjClose'] - symbol['open']
@@ -97,7 +102,8 @@ class TseTmc:
             start -= 1
         return
 
-    def cal_rsi(self, period, namad_name):
+    @staticmethod
+    def cal_rsi(period, namad_name):
         saina = pd.read_csv("tickers_data/" + namad_name + ".csv")
         f = saina.tail(period)
         f = f.set_index("jdate")

@@ -61,7 +61,7 @@ class TseTmc:
             symbol = pd.read_csv(str(name))
             # print(symbol)
             rsi = ta.trsi(symbol['adjClose'], 14)
-            if (rsi.tail(1).item()) < 15:
+            if (rsi.tail(1).item()) < 10 and (rsi.tail(1).item()) != 0:
                 print(name)
                 with open('signal/' + file_name + '.txt', 'a', encoding="utf-8") as f:
                     f.write(str(name.name.title() + " = " + str(rsi.tail(1).item()) + "\n"))
